@@ -1,0 +1,24 @@
+{
+  "originHash" : "17c8a904fda4145e5b480c017999ca6f336f55401d2b4dec982124dac5babbfa",
+  "pins" : [
+    {
+      "identity" : "sgm_swift_package_ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/castillejoale/SGM_Swift_Package_iOS",
+      "state" : {
+        "branch" : "main",
+        "revision" : "66f9dd27cfc2547e5e71583345274cc681d16d27"
+      }
+    },
+    {
+      "identity" : "ultralitesdk-releases-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Vuzix/UltraliteSDK-releases-iOS",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c7bd39808f36dc3831843283b11d7f61097d67bb"
+      }
+    }
+  ],
+  "version" : 3
+}
